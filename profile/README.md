@@ -42,11 +42,7 @@ Web interface specifically built for smooth discovering, trading, collecting, an
 
 Mobile inteface for smooth discovering, trading, collecting, and reading digital graphic novels. Built on Saga and will ship on Solana dApp store
 
-- .apk: https://tinyurl.com/d-reader-apk-demo
-
-> **Warning** .apk works only with Solflare till Phantom fixes a few bugs on their side
-
-> **Note** Make sure to switch your wallet to `devnet` when running demo apps
+- .apk: link disclosed and can be received per request at support@dreader.io
 
 ---
 
