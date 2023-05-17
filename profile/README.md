@@ -10,9 +10,7 @@
 
 Metaplex Auction House and Candy Machine programs are foundation to our marketplace and we integrated the business logic with them.
 
-- link: https://api.dev.dreader.io/api
-- fallback link: https://d-reader-backend-dev.herokuapp.com/api
-
+- link: https://api-dev-devnet.dreader.io/api
 ---
 
 ### [d-reader-frontend](https://github.com/d-reader-organization/d-reader-frontend)
@@ -22,7 +20,7 @@ Metaplex Auction House and Candy Machine programs are foundation to our marketpl
 
 Web interface specifically built for smooth discovering, trading, collecting, and reading digital graphic novels
 
-- link: https://dev.dreader.app
+- link: https://dev-devnet.dreader.app
 
 ---
 
