@@ -3,9 +3,6 @@
 
 **Open Source** is deeply engraved in dReader as a core value and as such, our repositories are always publicly available!
 
-> **Warning**
-> **Encode hackathon judges: please also refer to the additional specification at [ENCODE_README.md](./d-reader-organization/.github/blob/main/profile/ENCODE_README.md) document**
-
 ### [d-reader-backend](https://github.com/d-reader-organization/d-reader-backend)
 > NestJS, TypeScript, Prisma, PostgreSQL, web3.js, metaplex.js
 
