@@ -34,7 +34,7 @@ Web interface for seamless digital comic publishing, analytics tracking, and aud
 
 ---
 
-### [d-reader-landing](https://github.com/d-reader-organization/d-reader-landing)
+### [d-reader-landing](https://github.com/d-reader-organization/landing-page)
 > Next.js, TypeScript
 
 🔖 Promotional landing page for dReader project
