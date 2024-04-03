@@ -378,9 +378,9 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at privacy@dreader.io or by post to:
 
-dReader LLC
-Andrije Hebranga 16
-Metković, dubrovačko-neretvanska županija 20350
+Decentralized Reader LLC
+Put Radoševca 24
+Split, splitsko-dalmatinska županija 21000
 Croatia
 
 ### 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
