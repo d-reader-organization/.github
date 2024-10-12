@@ -13,14 +13,14 @@ Metaplex Auction House and Candy Machine programs are a foundation to our market
 - link: https://api-main-mainnet.dreader.io/api
 ---
 
-### [d-reader-frontend](https://github.com/d-reader-organization/d-reader-frontend)
-> Next.js, TypeScript, React Query, MUI, web3.js
+### [genesis-web](https://github.com/d-reader-organization/genesis-web)
+> Next.js, TypeScript, React Query, shadcn, Tailwind
 
-📖 Client application for dReader project
+📖 Client application for the Genesis project
 
-Web interface for seamless discovering, trading, collecting, and reading of digital graphic novels
+Fractional & tokenized IP investing
 
-- link: https://dreader.app
+- link: https://genesis-app-web.vercel.app/
 
 ### [d-publisher-frontend](https://github.com/d-reader-organization/d-publisher-frontend)
 > Next.js, TypeScript, React Query, MUI, web3.js
