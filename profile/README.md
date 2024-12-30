@@ -1,43 +1,30 @@
 # Tech Implementation
 > Tech stack and implementation details
 
-**Open Source** is deeply engraved in dReader as a core value and as such, our repositories are always publicly available!
-
 ### [d-reader-backend](https://github.com/d-reader-organization/d-reader-backend)
 > NestJS, TypeScript, Prisma, PostgreSQL, web3.js, metaplex.js
 
-🏗️ Server service for dReader & dPublisher applications
+🏗️ Server service for dReader applications
 
-Metaplex Auction House and Candy Machine programs are a foundation to our marketplace as our business logic is deeply integrated with them.
+- link: REDACTED
 
-- link: https://api-main-mainnet.dreader.io/api
 ---
 
-### [genesis-web](https://github.com/d-reader-organization/genesis-web)
-> Next.js, TypeScript, React Query, shadcn, Tailwind
+### [d-reader-web](https://github.com/d-reader-organization/d-reader-web)
+> Next.js, TypeScript, shadcn, Tailwind
 
-📖 Client application for the Genesis project
+📖 Client application for the dReader project
 
-Fractional & tokenized IP investing
+Platform for digital comics and investing into stories.
 
-- link: https://genesis-app-web.vercel.app/
-
-### [d-publisher-frontend](https://github.com/d-reader-organization/d-publisher-frontend)
-> Next.js, TypeScript, React Query, MUI, web3.js
-
-📖 Client application for dPublisher project
-
-Web interface for seamless digital comic publishing, analytics tracking, and audience capturing
-
-- link: https://dpublisher.app (coming soon)
-
+- link: https://dreader.app/
 
 ---
 
 ### [d-reader-landing](https://github.com/d-reader-organization/landing-page)
 > Next.js, TypeScript
 
-🔖 Promotional landing page for dReader project
+🔖 Promotional landing page for dReader project (outdated code)
 
 - link: https://dreader.io
 
@@ -46,7 +33,7 @@ Web interface for seamless digital comic publishing, analytics tracking, and aud
 ### [d-reader-mobile](https://github.com/d-reader-organization/d-reader-flutter)
 > Flutter
 
-📱 Android application for dReader project
+📱 Android application for the dReader project
 
 Mobile app for seamless discovering, trading, collecting, and reading of digital graphic novels. Published on Solana dApp store and Google Play store
 
@@ -59,17 +46,6 @@ Mobile app for seamless discovering, trading, collecting, and reading of digital
 
 ‍🫴 Solana Program - standard for dReader digital comics
 
-Comic Verse imposes a standard for signing, using and updating comic NFTs. Comic authors can sign copies, owners can 'unwrap' comics and read the content, dPublisher entity can act as an editorial service.
+Comic Verse imposes a standard for signing, using and updating comic NFTs. Comic authors can sign copies, owners can 'unwrap' comics and read the content.
 
 - link: https://www.npmjs.com/package/dreader-comic-verse
-
----
-
-### [solomon](https://github.com/d-reader-organization/solomon)
-> TypeScript, React, MUI, web3.js
-
-‍🫴 Utility library for Solana dApps, seamless MWA integrations
-
-Reducing boilerplate from our frontend applications as they all share same logic: wallet connections, backend authorization via offline message signing, MWA support...
-
-- link: https://www.npmjs.com/package/@open-sauce/solomon
